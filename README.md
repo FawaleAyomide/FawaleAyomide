@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FawaleAyomide
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Fronend Engineering
+- 🌱 I’m currently learning Frontend languages i.e React.js, Vue.js
 - 💞️ I’m looking to collaborate on Github and other technical platforms
 - 📫 How to reach me By mail -> fawaleayomideoladele@gmail.com
 
